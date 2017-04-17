@@ -12,7 +12,7 @@ This project is an image slider much like the ones you see on Apple's website an
 1.0.0
 
 ## Live Demo
- [AppleThumbSlider](http://jyotsnasingh.com/projects/JavaScript/AppleThumbSlider/)
+ [JyotsnaSingh/AppleThumbSlider](http://jyotsnasingh.com/projects/JavaScript/AppleThumbSlider/)
 
 
 ## Vendors
